@@ -105,6 +105,6 @@ def processing(filename):
 
 
 with open("output.txt", 'a', encoding='utf-8') as f:
-    print(processing("input01"), file=f)
-    print(processing("input02"), file=f)
-    print(processing("input03"), file=f)
+    print(processing("input01.1.3.1"), file=f)
+    print(processing("input02.1.3.1"), file=f)
+    print(processing("input03.1.3.1"), file=f)
