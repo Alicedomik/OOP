@@ -104,7 +104,7 @@ def processing(filename):
         print("Такої фігури не існує")
 
 
-with open("output.txt", 'a', encoding='utf-8') as f:
+with open("../output.txt", 'a', encoding='utf-8') as f:
     print(processing("input01.1.3.1"), file=f)
     print(processing("input02.1.3.1"), file=f)
     print(processing("input03.1.3.1"), file=f)
