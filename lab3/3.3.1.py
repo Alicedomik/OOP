@@ -3,7 +3,7 @@ class Figure:
     def __init__(self, *args):
         self.args = args
     def dimension(self):
-        pass
+       pass
     def perimetr(self):
         return None
     def square(self):
@@ -13,15 +13,9 @@ class Figure:
     def squareBase(self):
         return None
     def height(self):
-        if self.dimension() == 2:
-            return None
-        else:
-            pass
+        return None
     def volume(self):
-        if self.dimension() == 2:
-            return self.square()
-        else:
-            pass
+        pass
 
 
 class Triangle(Figure):
@@ -40,6 +34,9 @@ class Triangle(Figure):
         if s < 0 :
             return 0
         return s**0.5
+    def volume(self):
+        return self.square()
+
 
 
 class Rectangle(Figure):
@@ -53,6 +50,8 @@ class Rectangle(Figure):
         return (self.a+self.b)*2
     def square(self):
         return self.a*self.b
+    def volume(self):
+        return self.square()
 
 
 class Trapeze(Figure):
@@ -74,6 +73,8 @@ class Trapeze(Figure):
             return x * (y ** 0.5)
         else :
             return self.a * self.b
+    def volume(self):
+        return self.square()
 
 
 class Parallelogram(Figure):
@@ -93,6 +94,8 @@ class Parallelogram(Figure):
             return self.b*self.h
         else:
             return 0
+    def volume(self):
+        return self.square()
 
 
 class Circle(Figure):
@@ -105,6 +108,8 @@ class Circle(Figure):
         return self.r*2*math.pi
     def square(self):
         return math.pi*self.r**2
+    def volume(self):
+        return self.square()
 
 
 class Ball(Figure):
@@ -249,5 +254,13 @@ def processing(filename):
        print("File not found.")
 
 result = processing("input01.txt")
+figure, val = result
+print(f"Найбільша фігура: {figure.__class__.__name__}, міра: {val:.2f}")
+
+result = processing("input02.txt")
+figure, val = result
+print(f"Найбільша фігура: {figure.__class__.__name__}, міра: {val:.2f}")
+
+result = processing("input03.txt")
 figure, val = result
 print(f"Найбільша фігура: {figure.__class__.__name__}, міра: {val:.2f}")
