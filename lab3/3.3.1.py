@@ -63,6 +63,8 @@ class Trapeze(Figure):
         Figure.__init__(self,a,b,c,d)
     def dimension(self):
         return 2
+    def perimetr(self):
+        return self.a+self.b+self.c+self.d
     def square(self):
         if self.a != self.b :
             x = (self.a + self.b) / (4 * abs(self.a - self.b))
@@ -120,10 +122,6 @@ class Ball(Figure):
         return 3
     def squareSurface(self):
         return 4*math.pi*self.r**2
-    def squareBase(self):
-        return None
-    def height(self):
-        return None
     def volume(self):
         return 4*math.pi*self.r**3/3
 

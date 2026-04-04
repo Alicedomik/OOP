@@ -1,0 +1,12 @@
+Personal     10    3
+Personal     30    6
+Personal     20    4
+Personal     3000    2
+Truck       100    2000
+Truck       100    8
+Truck       150    3
+Truck       10000   8
+Bus          50    200
+Bus          60    13
+Bus          5000    21
+Bus          50    21

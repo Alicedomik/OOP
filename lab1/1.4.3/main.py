@@ -1,7 +1,7 @@
 from datetime import date
-from lab1.guest import Guest
-from lab1.room import Room
-from lab1.hotel import Hotel
+from guest import Guest
+from room import Room
+from hotel import Hotel
 
 rooms =[Room(101, 500, "standard"),
         Room(102, 500, "standard"),

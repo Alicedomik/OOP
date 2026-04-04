@@ -4,19 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6f86a14b-1791-483a-a2c8-5a93e32b615a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/OOP.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.2.1.py" afterDir="false" />
+    <list default="true" id="6f86a14b-1791-483a-a2c8-5a93e32b615a" name="Changes" comment="commit 1">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab3/3.4.1/autopark.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab3/3.4.1/bus.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab3/3.4.1/car.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab3/3.4.1/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab3/3.4.1/personal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab3/3.4.1/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab3/3.4.1/truck.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab1/1.4.3/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab1/1.4.3/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab3/3.3.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab3/3.3.1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ChangesViewManager" show_ignored="true" />
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -27,9 +33,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Alicedomik&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Alicedomik/OOP.git&quot;,
+    &quot;accountId&quot;: &quot;42bb84f5-aaab-426a-8dec-b3b396b1ea42&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="3AQa4qVSetb11BdxwZvHzGy2r8V" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -41,11 +59,35 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.1.2.1.executor": "Run",
+    "Python.1.3.1.executor": "Run",
+    "Python.1.4.1.executor": "Run",
+    "Python.1.4.2.main.executor": "Run",
+    "Python.1.4.3.main.executor": "Run",
+    "Python.2.2.1.executor": "Run",
+    "Python.2.3.1.executor": "Run",
+    "Python.2.4.1.executor": "Run",
+    "Python.3.3.1.executor": "Run",
+    "Python.autopark.executor": "Run",
+    "Python.hotel.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.pentagon.executor": "Run",
+    "Python.test.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "settings.editor.selected.configurable": "inlay.hints"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\alice\PycharmProjects\OOP\lab1\1.4.3" />
+      <recent name="C:\Users\alice\PycharmProjects\OOP\lab1\1.4.2" />
+      <recent name="C:\Users\alice\PycharmProjects\OOP\lab1\1.3.1" />
+      <recent name="C:\Users\alice\PycharmProjects\OOP\lab1" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -61,6 +103,99 @@
       <option name="presentableId" value="Default" />
       <updated>1772527060775</updated>
     </task>
+    <task id="LOCAL-00001" summary="commit 1">
+      <option name="closed" value="true" />
+      <created>1772530782746</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1772530782746</updated>
+    </task>
+    <task id="LOCAL-00002" summary="commit 1">
+      <option name="closed" value="true" />
+      <created>1773263326756</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1773263326758</updated>
+    </task>
+    <task id="LOCAL-00003" summary="commit 1">
+      <option name="closed" value="true" />
+      <created>1773841074733</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1773841074733</updated>
+    </task>
+    <task id="LOCAL-00004" summary="commit 1">
+      <option name="closed" value="true" />
+      <created>1773854744187</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1773854744187</updated>
+    </task>
+    <task id="LOCAL-00005" summary="commit 1">
+      <option name="closed" value="true" />
+      <created>1773854905013</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1773854905013</updated>
+    </task>
+    <task id="LOCAL-00006" summary="commit 1">
+      <option name="closed" value="true" />
+      <created>1773930612429</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1773930612429</updated>
+    </task>
+    <task id="LOCAL-00007" summary="commit 1">
+      <option name="closed" value="true" />
+      <created>1773931727336</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1773931727336</updated>
+    </task>
+    <task id="LOCAL-00008" summary="commit 1">
+      <option name="closed" value="true" />
+      <created>1773931879105</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1773931879105</updated>
+    </task>
+    <task id="LOCAL-00009" summary="commit 1">
+      <option name="closed" value="true" />
+      <created>1774096490955</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1774096490955</updated>
+    </task>
+    <task id="LOCAL-00010" summary="commit 1">
+      <option name="closed" value="true" />
+      <created>1774285528983</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1774285528983</updated>
+    </task>
+    <task id="LOCAL-00011" summary="commit 1">
+      <option name="closed" value="true" />
+      <created>1774444337155</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1774444337155</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit 1" />
   </component>
 </project>
