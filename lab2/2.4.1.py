@@ -73,9 +73,9 @@ class Clock:
 
 
 
+if __name__ == '__main__':
+    c = Clock()
+    c.update()
+    turtle.done()
 
 
-
-c = Clock()
-c.update()
-turtle.done()
