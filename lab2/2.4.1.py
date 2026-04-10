@@ -46,7 +46,7 @@ class Hand:
         self.t.clear()
         self.t.penup()
         self.t.goto(0, 0)
-        self.t.setheading(90 - angle) # 90 градусів - це "північ" у turtle
+        self.t.setheading(90 - angle)
         self.t.pendown()
         self.t.forward(self.length)
         self.t.penup()
