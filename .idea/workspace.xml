@@ -5,17 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6f86a14b-1791-483a-a2c8-5a93e32b615a" name="Changes" comment="commit 1">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab3/3.4.1/autopark.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab3/3.4.1/bus.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab3/3.4.1/car.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab3/3.4.1/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab3/3.4.1/personal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab3/3.4.1/test.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab3/3.4.1/truck.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab4/4.4.1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab1/1.4.3/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab1/1.4.3/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab3/3.3.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab3/3.3.1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab2/2.4.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab2/2.4.1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,6 +60,7 @@
     "Python.2.3.1.executor": "Run",
     "Python.2.4.1.executor": "Run",
     "Python.3.3.1.executor": "Run",
+    "Python.4.4.1.executor": "Run",
     "Python.autopark.executor": "Run",
     "Python.hotel.executor": "Run",
     "Python.main.executor": "Run",
@@ -77,10 +70,14 @@
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/alice/PycharmProjects/OOP/lab4",
     "settings.editor.selected.configurable": "inlay.hints"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\alice\PycharmProjects\OOP\lab4" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\alice\PycharmProjects\OOP\lab1\1.4.3" />
       <recent name="C:\Users\alice\PycharmProjects\OOP\lab1\1.4.2" />
@@ -191,7 +188,31 @@
       <option name="project" value="LOCAL" />
       <updated>1774444337155</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="commit 1">
+      <option name="closed" value="true" />
+      <created>1775478398635</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1775478398635</updated>
+    </task>
+    <task id="LOCAL-00013" summary="commit 1">
+      <option name="closed" value="true" />
+      <created>1775827495063</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1775827495064</updated>
+    </task>
+    <task id="LOCAL-00014" summary="commit 1">
+      <option name="closed" value="true" />
+      <created>1775827529074</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1775827529074</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
