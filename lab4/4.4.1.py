@@ -111,11 +111,12 @@ class DigitalWatch(Watch):
         self.t.write(time_str, align="center", font=("Courier", 80, "bold"))
         turtle.ontimer(self.update, 1000)
 
+if __name__ == '__main__':
 
-a = AnalogWatch()
-a.update()
-turtle.done()
+    a = AnalogWatch()
+    a.update()
+    turtle.done()
 
-# d = DigitalWatch()
-# d.run()
-# turtle.done()
+    # d = DigitalWatch()
+    # d.run()
+    # turtle.done()
