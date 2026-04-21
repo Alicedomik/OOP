@@ -108,15 +108,15 @@ class DigitalWatch(Watch):
         else:
             time_str = f"{hour:02d}:{minute:02d}:{second:02d}"
         self.t.clear()
-        self.t.write(time_str, align="center", font=("Courier", 80, "bold"))
+        self.t.write(time_str, align="center", font=("Courier", 50, "bold"))
         turtle.ontimer(self.update, 1000)
 
 if __name__ == '__main__':
 
-    a = AnalogWatch()
-    a.update()
-    turtle.done()
-
-    # d = DigitalWatch()
-    # d.run()
+    # a = AnalogWatch()
+    # a.update()
     # turtle.done()
+
+    d = DigitalWatch(format="24")
+    d.run()
+    turtle.done()
