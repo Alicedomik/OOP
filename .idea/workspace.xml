@@ -4,10 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6f86a14b-1791-483a-a2c8-5a93e32b615a" name="Changes" comment="commit 1">
-      <change afterPath="$PROJECT_DIR$/lab5/5.4.1 test" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab5/5.4.1.py" afterDir="false" />
+    <list default="true" id="6f86a14b-1791-483a-a2c8-5a93e32b615a" name="Changes" comment="commit">
+      <change afterPath="$PROJECT_DIR$/lab6/6.4.1 test" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab6/t_6_4_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab6/t_6_4_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab6/t_6_4_3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab5/5.4.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab5/t_5_4_1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,10 +65,12 @@
     &quot;Python.3.3.1.executor&quot;: &quot;Run&quot;,
     &quot;Python.4.4.1.executor&quot;: &quot;Run&quot;,
     &quot;Python.5.4.1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.6.4.1.executor&quot;: &quot;Run&quot;,
     &quot;Python.autopark.executor&quot;: &quot;Run&quot;,
     &quot;Python.hotel.executor&quot;: &quot;Run&quot;,
     &quot;Python.main.executor&quot;: &quot;Run&quot;,
     &quot;Python.pentagon.executor&quot;: &quot;Run&quot;,
+    &quot;Python.t_6_4_1.executor&quot;: &quot;Run&quot;,
     &quot;Python.test.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
@@ -237,11 +242,28 @@
       <option name="project" value="LOCAL" />
       <updated>1776757520370</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="commit 1">
+      <option name="closed" value="true" />
+      <created>1779205700373</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1779205700373</updated>
+    </task>
+    <task id="LOCAL-00019" summary="commit">
+      <option name="closed" value="true" />
+      <created>1779205872398</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1779205872398</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="commit 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit 1" />
+    <MESSAGE value="commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit" />
   </component>
 </project>
