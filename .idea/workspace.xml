@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6f86a14b-1791-483a-a2c8-5a93e32b615a" name="Changes" comment="commit lab7">
-      <change afterPath="$PROJECT_DIR$/lab8/t_8_3_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab8/t_8_3_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab8/t_8_3_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab8/t_8_3_4.py" afterDir="false" />
+    <list default="true" id="6f86a14b-1791-483a-a2c8-5a93e32b615a" name="Changes" comment="commit lab8">
+      <change afterPath="$PROJECT_DIR$/lab9/input15.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab9/t_9_3_1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,36 +48,37 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.1.2.1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.1.3.1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.1.4.1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.1.4.2.main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.1.4.3.main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.2.2.1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.2.3.1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.2.4.1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.3.3.1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.4.4.1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.5.4.1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.6.4.1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.autopark.executor&quot;: &quot;Run&quot;,
-    &quot;Python.hotel.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.pentagon.executor&quot;: &quot;Run&quot;,
-    &quot;Python.t_6_4_1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.t_7_3_1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.test.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/alice/PycharmProjects/OOP/lab4&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;inlay.hints&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.1.2.1.executor": "Run",
+    "Python.1.3.1.executor": "Run",
+    "Python.1.4.1.executor": "Run",
+    "Python.1.4.2.main.executor": "Run",
+    "Python.1.4.3.main.executor": "Run",
+    "Python.2.2.1.executor": "Run",
+    "Python.2.3.1.executor": "Run",
+    "Python.2.4.1.executor": "Run",
+    "Python.3.3.1.executor": "Run",
+    "Python.4.4.1.executor": "Run",
+    "Python.5.4.1.executor": "Run",
+    "Python.6.4.1.executor": "Run",
+    "Python.autopark.executor": "Run",
+    "Python.hotel.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.pentagon.executor": "Run",
+    "Python.t_6_4_1.executor": "Run",
+    "Python.t_7_3_1.executor": "Run",
+    "Python.t_9_3_1.executor": "Run",
+    "Python.test.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/alice/PycharmProjects/OOP/lab4",
+    "settings.editor.selected.configurable": "inlay.hints"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\alice\PycharmProjects\OOP\lab4" />
@@ -274,13 +273,22 @@
       <option name="project" value="LOCAL" />
       <updated>1779375835831</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="commit lab8">
+      <option name="closed" value="true" />
+      <created>1779383040112</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1779383040112</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="commit 1" />
     <MESSAGE value="commit" />
     <MESSAGE value="commit lab7" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit lab7" />
+    <MESSAGE value="commit lab8" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit lab8" />
   </component>
 </project>
